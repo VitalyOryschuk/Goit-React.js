@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
-
 // const image = React.createElement("img", {
 //   src:
 //     "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?dpr=2&h=480&w=640",
@@ -31,5 +30,4 @@ import App from "./components/App";
 //     <button type="button">Add to cart</button>
 //   </div>
 // )
-
-ReactDOM.render( < App / > , document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));
