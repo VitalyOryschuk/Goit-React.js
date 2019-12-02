@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/main.a671d9de.chunk.js",
+    "main.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/main.a671d9de.chunk.js.map",
+    "runtime-main.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/runtime-main.95ebb0c8.js",
+    "runtime-main.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/runtime-main.95ebb0c8.js.map",
+    "static/js/2.b5f2ae46.chunk.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/2.b5f2ae46.chunk.js",
+    "static/js/2.b5f2ae46.chunk.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/2.b5f2ae46.chunk.js.map",
+    "index.html": "//github.com/VitalyOryschuk/Goit-React.js/index.html",
+    "precache-manifest.bc108172e57f9e3741c87761ec55bf1c.js": "//github.com/VitalyOryschuk/Goit-React.js/precache-manifest.bc108172e57f9e3741c87761ec55bf1c.js",
+    "service-worker.js": "//github.com/VitalyOryschuk/Goit-React.js/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95ebb0c8.js",
+    "static/js/2.b5f2ae46.chunk.js",
+    "static/js/main.a671d9de.chunk.js"
+  ]
+}
