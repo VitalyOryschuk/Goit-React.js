@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practic-redux/static/css/main.0f54525f.chunk.css",
+    "main.js": "/practic-redux/static/js/main.59945c15.chunk.js",
+    "main.js.map": "/practic-redux/static/js/main.59945c15.chunk.js.map",
+    "runtime-main.js": "/practic-redux/static/js/runtime-main.ca404e0d.js",
+    "runtime-main.js.map": "/practic-redux/static/js/runtime-main.ca404e0d.js.map",
+    "static/js/2.17abbbc1.chunk.js": "/practic-redux/static/js/2.17abbbc1.chunk.js",
+    "static/js/2.17abbbc1.chunk.js.map": "/practic-redux/static/js/2.17abbbc1.chunk.js.map",
+    "index.html": "/practic-redux/index.html",
+    "precache-manifest.15e5012cac7f41884c1ab12cf1c5c6d4.js": "/practic-redux/precache-manifest.15e5012cac7f41884c1ab12cf1c5c6d4.js",
+    "service-worker.js": "/practic-redux/service-worker.js",
+    "static/css/main.0f54525f.chunk.css.map": "/practic-redux/static/css/main.0f54525f.chunk.css.map",
+    "static/js/2.17abbbc1.chunk.js.LICENSE.txt": "/practic-redux/static/js/2.17abbbc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca404e0d.js",
+    "static/js/2.17abbbc1.chunk.js",
+    "static/css/main.0f54525f.chunk.css",
+    "static/js/main.59945c15.chunk.js"
+  ]
+}
