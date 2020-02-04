@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/main.a671d9de.chunk.js",
-    "main.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/main.a671d9de.chunk.js.map",
-    "runtime-main.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/runtime-main.95ebb0c8.js",
-    "runtime-main.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/runtime-main.95ebb0c8.js.map",
-    "static/js/2.b5f2ae46.chunk.js": "//github.com/VitalyOryschuk/Goit-React.js/static/js/2.b5f2ae46.chunk.js",
-    "static/js/2.b5f2ae46.chunk.js.map": "//github.com/VitalyOryschuk/Goit-React.js/static/js/2.b5f2ae46.chunk.js.map",
-    "index.html": "//github.com/VitalyOryschuk/Goit-React.js/index.html",
-    "precache-manifest.bc108172e57f9e3741c87761ec55bf1c.js": "//github.com/VitalyOryschuk/Goit-React.js/precache-manifest.bc108172e57f9e3741c87761ec55bf1c.js",
-    "service-worker.js": "//github.com/VitalyOryschuk/Goit-React.js/service-worker.js"
+    "main.css": "/practic-redux/static/css/main.0f54525f.chunk.css",
+    "main.js": "/practic-redux/static/js/main.59945c15.chunk.js",
+    "main.js.map": "/practic-redux/static/js/main.59945c15.chunk.js.map",
+    "runtime-main.js": "/practic-redux/static/js/runtime-main.ca404e0d.js",
+    "runtime-main.js.map": "/practic-redux/static/js/runtime-main.ca404e0d.js.map",
+    "static/js/2.17abbbc1.chunk.js": "/practic-redux/static/js/2.17abbbc1.chunk.js",
+    "static/js/2.17abbbc1.chunk.js.map": "/practic-redux/static/js/2.17abbbc1.chunk.js.map",
+    "index.html": "/practic-redux/index.html",
+    "precache-manifest.15e5012cac7f41884c1ab12cf1c5c6d4.js": "/practic-redux/precache-manifest.15e5012cac7f41884c1ab12cf1c5c6d4.js",
+    "service-worker.js": "/practic-redux/service-worker.js",
+    "static/css/main.0f54525f.chunk.css.map": "/practic-redux/static/css/main.0f54525f.chunk.css.map",
+    "static/js/2.17abbbc1.chunk.js.LICENSE.txt": "/practic-redux/static/js/2.17abbbc1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95ebb0c8.js",
-    "static/js/2.b5f2ae46.chunk.js",
-    "static/js/main.a671d9de.chunk.js"
+    "static/js/runtime-main.ca404e0d.js",
+    "static/js/2.17abbbc1.chunk.js",
+    "static/css/main.0f54525f.chunk.css",
+    "static/js/main.59945c15.chunk.js"
   ]
 }
